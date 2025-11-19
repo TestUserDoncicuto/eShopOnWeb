@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-donci
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: a6939f4b-b111-4eee-afd0-121eb3b77faf
+  SUBSCRIPTION-ID: d214dcff-5cc6-46c8-a2dd-3f98136ce894
   WEBAPP-NAME: eshoponweb-webapp-donci
 
 jobs:
